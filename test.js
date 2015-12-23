@@ -1,3 +1,1 @@
-123
-456
-789
+console.log(process.platform)
