@@ -1,1 +1,1 @@
-console.log(process.platform)
+hello wolrd
